@@ -1,3 +1,4 @@
+# HI IM WONGKA!(https://github.com/OrangBias4)
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
@@ -25,7 +26,4 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
-  
-# HOW TO USE
-$ pkg install python2
-$ python2 orbis.py (IP) (PORT)
+https://github.com/OrangBias4)
